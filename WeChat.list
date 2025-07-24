@@ -43,22 +43,22 @@ user-agent, micromessenger*
 user-agent, wechat*
 ip-asn, 132203
 # Steam
-domain-suffix, cm.steampowered.com
-domain-suffix, steamserver.net
+DOMAIN-SUFFIX, cm.steampowered.com
+DOMAIN-SUFFIX, steamserver.net
 # iCloud邮箱
-domain, imap.mail.me.com
-domain, smtp.mail.me.com
-domain-suffix, icloud.com
-domain-suffix, me.com
+DOMAIN,imap.mail.me.com
+DOMAIN,smtp.mail.me.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,me.com
 # QQ邮箱
-domain, imap.qq.com
-domain, smtp.qq.com
-domain, pop.qq.com
-domain-suffix, qq.com
+DOMAIN, imap.qq.com
+DOMAIN, smtp.qq.com
+DOMAIN, pop.qq.com
+DOMAIN-SUFFIX, qq.com
 # Gmail
-domain, imap.gmail.com
-domain, smtp.gmail.com
-domain, pop.gmail.com
-domain-suffix, gmail.com
-domain-suffix, googlemail.com
-domain-suffix, google.com
+DOMAIN, imap.gmail.com
+DOMAIN, smtp.gmail.com
+DOMAIN, pop.gmail.com
+DOMAIN-SUFFIX, gmail.com
+DOMAIN-SUFFIX, googlemail.com
+DOMAIN-SUFFIX, google.com
