@@ -1,0 +1,58 @@
+#name = Streaming Media
+#ChatGDP
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,oaistatic.co
+DOMAIN-SUFFIX,platform.openai.com
+#Google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
+#GitHub加速访问
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,fastgit.org
+host, klraw.pages.dev
+# Twitter
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-KEYWORD,twitter
+IP-CIDR,202.160.128.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,192.133.76.0/22
+IP-CIDR,199.96.56.0/21
+IP-CIDR,209.237.192.0/19
+IP-CIDR,69.195.160.0/19
+#YouTube
+DOMAIN-SUFFIX, googlevideo.com     
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, ytimg.com
+
+
