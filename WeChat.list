@@ -51,10 +51,10 @@ host, imap.mail.me.com
 host, smtp.mail.me.com
 host-suffix, me.com
 # QQ邮箱
+host-suffix, qq.com
 host, imap.qq.com
 host, smtp.qq.com
 host, pop.qq.com
-host-suffix,, qq.com
 # Gmail
 host-suffix, googlemail.com
 host-suffix, google.com
