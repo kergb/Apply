@@ -1,10 +1,20 @@
-#ChatGDP
-host-suffix, openai.com
-host-suffix, chat.openai.com
+#ChatGDP/OpenAI
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+host, openaicomproductionae4b.blob.core.windows.net
+host, production-openaicom-storage.azureedge.net
+host-suffix, platform.openai.com 
+host-suffix, oaiusercontent.com 
 host-suffix, auth0.openai.com
-host-suffix, cdn.openai.com
-host-suffix, oaistatic.co
-host-suffix, platform.openai.com
+host-suffix, chat.openai.com 
+host-suffix, cdn.openai.com 
+host-suffix, azureedge.net 
+host-suffix, oaistatic.com
+host-suffix, livekit.cloud
+host-suffix, oaistatic.co 
+host-suffix, chatgpt.com
+host-suffix, openai.com
+host-suffix, imgix.net
+host-suffix, ai.com
 #Google
 host-suffix, googleapis.com
 host-suffix, gstatic.com
