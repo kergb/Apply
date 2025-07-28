@@ -16,7 +16,11 @@ host-suffix, jsdelivr.net
 host-suffix, fastgit.org
 host-suffix, github.com
 host, klraw.pages.dev
-# Twitter
+#missav
+host,  missav.live
+host,  missav.live
+host,  missav.ws
+#Twitter
 host-suffix, twitter.biz
 host-suffix, ads-twitter.com
 host-suffix, cms-twdigitalassets.com
