@@ -1,0 +1,28 @@
+# 台湾
+IP-ASN, 3462, 台湾节点, no-resolve
+IP-CIDR, 1.170.211.236/32, 台湾节点, no-resolve
+
+# 日本
+IP-ASN, 2514, 日本节点, no-resolve
+IP-CIDR, 210.231.178.233/32, 日本节点, no-resolve
+
+# 新加坡
+IP-ASN, 198100, 狮城节点, no-resolve
+IP-CIDR, 185.151.146.55/32, 狮城节点, no-resolve
+
+# 美国（包含 Cloudflare 柬埔寨）
+IP-ASN, 13335, 美国节点, no-resolve
+IP-CIDR, 104.28.204.176/32, 美国节点, no-resolve
+IP-CIDR, 104.28.252.177/32, 美国节点, no-resolve
+
+# 越南
+IP-ASN, 45899, 越南节点, no-resolve
+IP-CIDR, 123.30.235.92/32, 越南节点, no-resolve
+
+# 英国
+IP-ASN, 49683, 英国节点, no-resolve
+IP-CIDR, 185.168.192.148/32, 英国节点, no-resolve
+
+# 德国
+IP-ASN, 142111, 德国节点, no-resolve
+IP-CIDR, 185.39.51.54/32, 德国节点, no-resolve
