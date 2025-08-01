@@ -1,28 +1,30 @@
-# 台湾
+
+IP-ASN, 401615, 香港节点, no-resolve
+IP-ASN, 61112, 香港节点, no-resolve 
 IP-ASN, 3462, 台湾节点, no-resolve
-IP-CIDR, 1.170.211.236/32, 台湾节点, no-resolve
-
-# 日本
+IP-ASN, 401243, 日本节点, no-resolve
 IP-ASN, 2514, 日本节点, no-resolve
-IP-CIDR, 210.231.178.233/32, 日本节点, no-resolve
-
-# 新加坡
-IP-ASN, 198100, 狮城节点, no-resolve
-IP-CIDR, 185.151.146.55/32, 狮城节点, no-resolve
-
-# 美国（包含 Cloudflare 柬埔寨）
+IP-ASN, 198100, 新加坡节点, no-resolve
+IP-ASN, 13335, 新加坡节点, no-resolve
 IP-ASN, 13335, 美国节点, no-resolve
-IP-CIDR, 104.28.204.176/32, 美国节点, no-resolve
-IP-CIDR, 104.28.252.177/32, 美国节点, no-resolve
-
-# 越南
+IP-ASN, 13335, 柬埔寨节点, no-resolve
 IP-ASN, 45899, 越南节点, no-resolve
-IP-CIDR, 123.30.235.92/32, 越南节点, no-resolve
-
-# 英国
+IP-ASN, 13335, 印度尼西亚节点, no-resolve
 IP-ASN, 49683, 英国节点, no-resolve
-IP-CIDR, 185.168.192.148/32, 英国节点, no-resolve
-
-# 德国
 IP-ASN, 142111, 德国节点, no-resolve
-IP-CIDR, 185.39.51.54/32, 德国节点, no-resolve
+IP-CIDR, 45.196.219/104, 香港节点, no-resolve
+IP-CIDR, 45.149.186/149, 香港节点, no-resolve
+IP-CIDR, 1.170.211/236, 台湾节点, no-resolve
+IP-CIDR, 210.231.178/233, 日本节点, no-resolve
+IP-CIDR, 151.242.36/62, 日本节点, no-resolve
+IP-CIDR, 185.151.146/55, 新加坡节点, no-resolve
+IP-CIDR, 104.28.222/47, 新加坡节点, no-resolve
+IP-CIDR, 104.28.236/175, 美国节点, no-resolve
+IP-CIDR, 104.28.235/59, 美国节点, no-resolve
+IP-CIDR, 104.28.252/177, 柬埔寨节点, no-resolve
+IP-CIDR, 123.30.235/92, 越南节点, no-resolve
+IP-CIDR, 104.28.213/127, 印度尼西亚节点, no-resolve
+IP-CIDR, 185.168.192/148, 英国节点, no-resolve
+IP-CIDR,  185.39.51/54, 德国节点, no-resolve
+
+
