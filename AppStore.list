@@ -1,2 +1,2 @@
-host, p14-buy.itunes.apple.com
-#host, iosapps.itunes.apple.com=iosapps.itunes.apple.com
+#host, p14-buy.itunes.apple.com
+host, iosapps.itunes.apple.com=iosapps.itunes.apple.com
