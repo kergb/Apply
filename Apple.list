@@ -1,4 +1,4 @@
-host, iosapps.itunes.apple.com.download.ks-cdn.com
+#host, iosapps.itunes.apple.com.download.ks-cdn.com
 host, p14-buy.itunes.apple.com
 host, gmail.com
 DOMAIN, account.apple.com
