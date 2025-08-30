@@ -19,6 +19,10 @@ host-suffix, doubleclick.de
 host-suffix, doubleclick.net
 host-suffix, doubleclickbygoogle.com
 host-suffix, googleads.g.doubleclick.net.iberostar.com
+host-suffix, googlesyndication.com
+host-suffix, googletagservices.com
+host-suffix, gtmfsstatic.getgoogletagmanager.com
+host-suffix, googletagmanager.com
 host-suffix, pubads.g.doubleclick.uk.net
 host-suffix, qevia.doubleclick.bond
 host-suffix, static-doubleclick-net.l.google.com
