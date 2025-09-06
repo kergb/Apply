@@ -29,6 +29,10 @@ host-suffix, cloudflare.com
 host-suffix, akamaihd.net
 host-suffix, facebook.com
 host-suffix, googleusercontent.com
+#supercells
+host-suffix, supercell.com
+host-suffix, supercell.net
+host-suffix, helpshift.com
 # WeChat
 host, apd-pcdnwxlogin.teg.tencent-cloud.net
 host, btrace.qq.com
