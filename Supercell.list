@@ -1,11 +1,1 @@
-# Supercell 游戏服务器
-DOMAIN-SUFFIX,supercell.net
-DOMAIN-SUFFIX,supercell.com
-# 游戏登录和资源
-DOMAIN-SUFFIX,clashofclans.com
-DOMAIN-SUFFIX,clashroyaleapp.com
-DOMAIN-SUFFIX,boombeachgame.com
-IP-CIDR,149.154.167.0/24
-IP-CIDR,31.13.64.0/18
-IP-CIDR,54.192.0.0/16
-IP-CIDR,54.230.0.0/16
+host, id.supercell.com
