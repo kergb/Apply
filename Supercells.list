@@ -1,6 +1,6 @@
 #DOMAIN-SUFFIX,vungle.com
 #DOMAIN-SUFFIX,applovin.com
-host-suffix, mediation.unity3d.com
+#host-suffix, mediation.unity3d.com
 #DOMAIN-SUFFIX,applvn.com
 #DOMAIN-SUFFIX,doubleclick.net
 host-suffix, unityads.unitychina.cn
