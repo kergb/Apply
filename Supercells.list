@@ -3,7 +3,7 @@
 host-suffix, mediation.unity3d.com
 #DOMAIN-SUFFIX,applvn.com
 #DOMAIN-SUFFIX,doubleclick.net
-%host-suffix, unityads.unitychina.cn
+#host-suffix, unityads.unitychina.cn
 #DOMAIN-SUFFIX,supersonicads.com
 
 #DOMAIN-SUFFIX, ae.iads.unity3d.com
