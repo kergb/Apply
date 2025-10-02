@@ -6,5 +6,5 @@
 #DOMAIN-SUFFIX,supersonicads.com
 #DOMAIN-SUFFIX, ae.iads.unity3d.com
 host-suffix, mediation.unity3d.com
-host-suffix, pemsrv.com
-host-suffix, magsrv.com
+host-suffix, s.pemsrv.com
+host-suffix, a.magsrv.com
