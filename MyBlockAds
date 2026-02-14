@@ -1,2 +1,8 @@
+#海岛奇兵
 host-suffix, mediation.unity3d.com
 host-suffix, iadsdk.apple.com
+# 万能钥匙
+host-suffix, ads.umeng.com, reject
+host-suffix, aishuttler.com, reject
+host-suffix, wkanx.com, reject
+
