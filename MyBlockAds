@@ -1,10 +1,12 @@
 #海岛奇兵
-host, applovin.com, reject
-host, unityads.unity3d.com, reject
-host, mediation.unity3d.com, reject
-host, logs.ads.vungle.com , reject
+host, applovin.com
+host, logs.ads.vungle.com
+host, unityads.unity3d.com
+host, mediation.unity3d.com
+
 # 万能钥匙
-host-suffix, ads.umeng.com, reject
-host-suffix, aishuttler.com, reject
-host-suffix, wkanx.com, reject
+host-suffix, wkanx.com
+host-suffix, ads.umeng.com
+host-suffix, aishuttler.com
+
 
