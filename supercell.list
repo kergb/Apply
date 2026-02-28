@@ -1,2 +1,5 @@
-host.cdn.id.supercell.com
-host,game.boombeachgame.com
+#host, id.supercell.com
+#host, cdn.id.supercell.com
+host, game.boombeachgame.com
+#host, inventory.mtech.supercell.com
+host-suffix, supercell.com
