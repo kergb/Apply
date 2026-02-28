@@ -5,10 +5,6 @@
 #host, mediation.unity3d.com
 host, i-sdk.mediation.unity3d.com
 host, i-adq.mediation.unity3d.com
-host-suffix,stats.gc.apple.com
-host-suffix,comm-main.ess.apple.com
-host-suffix,stats.gc.apple.com
-host-suffix,amp-api-edge.apps.apple.com
 # 万能钥匙
 host-suffix, wkanx.com
 host-suffix, ads.umeng.com
