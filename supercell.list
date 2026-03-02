@@ -1,5 +1,3 @@
-host, missav.ai
-host, missav.ws
-host, missav.live
+host-suffix, missav
 host-suffix, supercell.com
 host, game.boombeachgame.com
