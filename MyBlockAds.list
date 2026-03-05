@@ -31,8 +31,8 @@ ip-cidr, 101.124.19.122/32
 #javdb
 host, api.liquidlink.cn, reject
 #酷狗音乐
-host, ad.tencentmusic.com
 host, adsmind.gdtimg.com
+host, ad.tencentmusic.com
 host, adservice.kugou.com
 host, ads.service.kugou.com
 host, adserviceretry.kglink.cn
