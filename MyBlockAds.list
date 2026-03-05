@@ -5,38 +5,10 @@
 #host, mediation.unity3d.com
 host, i-sdk.mediation.unity3d.com
 host, i-adq.mediation.unity3d.com
-#拾捌AV
-host-suffix, magsrv.com, reject
-host-suffix, pemsrv.com, reject
+
 # 万能钥匙
 host-suffix, wkanx.com
 host-suffix, ads.umeng.com
 host-suffix, aishuttler.com
 
 
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
