@@ -1,3 +1,21 @@
+#爱奇艺
+host, api.iqiyi.com
+host, access.if.iqiyi.com
+ip-cidr, 103.44.59.54/32
+ip-cidr, 111.63.147.158/32
+ip-cidr, 116.211.198.237/32
+#百度
+host, mobads.baidu.com
+ip-cidr, 180.76.76.112/32
+ip-cidr, 180.76.76.200/32
+host-suffix, pos.baidu.com
+#百度贴吧
+host, afd.baidu.com
+host, mobads.baidu.com
+#高德地图
+host-suffix, v.smtcdns.com
+host, free-aos-cdn-image.amap.com
+host, amap-aos-info-nogw.amap.com
 #海岛奇兵
 #host, applovin.com
 #host, logs.ads.vungle.com
@@ -5,10 +23,66 @@
 #host, mediation.unity3d.com
 host, i-sdk.mediation.unity3d.com
 host, i-adq.mediation.unity3d.com
-
+#建设银行
+host-keyword, adv.ccb.com
+#京东
+host, dns.jd.com
+ip-cidr, 101.124.19.122/32
+#javdb
+host, api.liquidlink.cn, reject
+#酷狗音乐
+host, ad.tencentmusic.com
+host, adsmind.gdtimg.com
+host, adservice.kugou.com
+host, ads.service.kugou.com
+host, adserviceretry.kglink.cn
+host, adserviceretry.kglink.cn
+host, adserviceretry.kugou.com
+host, adstats.tencentmusic.com
+host, splashimgretrybssdl.cloud.kugou.com
+#快手
+host, js-ad.a.yximgs.com
+host-suffix, e.kuaishou.com
+#missav
+host-suffix, tsyndicate.com
+host, creative.myavlive.com
+host-suffix, trackwilltrk.com
+#美团
+host-suffix, meituan.n
+ip-cidr, 103.37.155.60/32
+host-suffix, meituan.yoga
+host-suffix, meituangov.c
+host-suffix, d.meituan.net
+host, flowplus.meituan.net
+host-suffix, mads.meituan.com
+host-suffix, wmlog.meituan.com
+host-suffix, report.meituan.com
+host-suffix, dreport.meituan.net
+host-suffix, analytics.meituan.net
+host, metrics-picture.d.meituan.net
+host-suffix, ad.e.waimai.sankuai.com
+host, maplocatesdksnapshot.d.meituan.net
+#农行防代理检测
+host, msmp.abchina.com.cn
+#拾捌AV
+host-suffix, magsrv.com
+host-suffix, pemsrv.com
+#Telegram
+ip-cidr, 95.161.76.100/31
+#淘宝
+host, ut.taobao.com
+host, ems.youku.com
+host, ossgw.alicdn.com
+ host, hudong.alicdn.com
+host, adashx.m.taobao.com
+host, h-adashx.ut.taobao.com
+#微博
+host, huodong.weibo.cn
+host-suffix, biz.weibo.com
 # 万能钥匙
 host-suffix, wkanx.com
-host-suffix, ads.umeng.com
 host-suffix, aishuttler.com
-
+host-suffix, ads.umeng.com
+#咸鱼
+user-agent, %E9%97%B2%E9%B1%BC*
 
