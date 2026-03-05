@@ -80,9 +80,14 @@ host, h-adashx.ut.taobao.com
 host, huodong.weibo.cn
 host-suffix, biz.weibo.com
 # 万能钥匙
+host, sdk.e.qq.com
+host, qzs.gdtimg.com
 host-suffix, wkanx.com
-host-suffix, aishuttler.com
+host, mobads.baidu.com
+host-suffix, gdt.qq.com
 host-suffix, ads.umeng.com
+host-suffix, aishuttler.com
+host-keyword, pangolin-sdk-toutiao
 #咸鱼
 user-agent, %E9%97%B2%E9%B1%BC*
 
