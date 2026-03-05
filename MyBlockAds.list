@@ -1,8 +1,8 @@
 #爱奇艺
 host, api.iqiyi.com
-host, access.if.iqiyi.com
 ip-cidr, 103.44.59.54/32
 ip-cidr, 111.63.147.158/32
+host, access.if.iqiyi.com
 ip-cidr, 116.211.198.237/32
 #百度
 host, mobads.baidu.com
