@@ -1,3 +1,7 @@
-host-suffix, supercell.com
+host,id.supercell.com
+host,cdn.id.supercell.com
+#host-suffix, supercell.com
 host, game.boombeachgame.com
+host,security.id.supercell.com
+host,inventory.mtech.supercell.com
 host, client-rapi-missav.recombee.com
