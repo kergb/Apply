@@ -73,8 +73,8 @@ ip-cidr, 95.161.76.100/31
 host, ut.taobao.com
 host, ems.youku.com
 host, ossgw.alicdn.com
- host, hudong.alicdn.com
-host, adashx.m.taobao.com
+host, hudong.alicdn.com
+#host, adashx.m.taobao.com
 host, h-adashx.ut.taobao.com
 #微博
 host, huodong.weibo.cn
