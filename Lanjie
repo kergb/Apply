@@ -1,5 +1,5 @@
-#host-suffix,applovin.com,reject
-host-suffix,app-analytics-services.com,reject
+host-suffix,applovin.com,reject
+#host-suffix,app-analytics-services.com,reject
 host-suffix,mediation.unity3d.com,reject
 #host-suffix,vungle.com,reject
 #host-suffix,unityads.unitychina.cn,reject
