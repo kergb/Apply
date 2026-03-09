@@ -68,6 +68,7 @@ host, msmp.abchina.com.cn
 #拾捌AV
 host-suffix, magsrv.com
 host-suffix, pemsrv.com
+host-suffix,mmfreeb.com
 #Telegram
 ip-cidr, 95.161.76.100/31
 #淘宝
