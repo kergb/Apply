@@ -1,6 +1,6 @@
-host-suffix,applovin.com,reject
-#host-suffix,app-analytics-services.com,reject
-host-suffix,mediation.unity3d.com,reject
-#host-suffix,vungle.com,reject
-#host-suffix,unityads.unitychina.cn,reject
-#host-suffix,supersonicads.com,reject
+ip-cidr, 10.0.0.0/8
+ip-cidr, 127.0.0.0/8
+ip-cidr, 224.0.0.0/24
+ip-cidr, 172.16.0.0/12
+ip-cidr, 192.168.0.0/16
+host, cdn.id.supercell.com
