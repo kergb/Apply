@@ -18,7 +18,7 @@ host, free-aos-cdn-image.amap.com
 host, amap-aos-info-nogw.amap.com
 #海岛奇兵
 #host, applovin.com
-#host, logs.ads.vungle.com
+host, logs.ads.vungle.com
 host, unityads.unity3d.com
 host, mediation.unity3d.com
 #host-suffix, applovin.com
