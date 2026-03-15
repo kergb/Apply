@@ -3,9 +3,9 @@ host-suffix, unityads.unitychina.cn, reject
 host-suffix, doubleclick.net, reject
 host-suffix, supersonicads.com, reject
 host-suffix, iadsdk.apple.com, reject
-#host-suffix, applovin.com, reject
+host-suffix, applovin.com, reject
 #host-suffix, collector.github.com, reject
-#host-suffix, mediation.unity3d.com, reject
+host-suffix, mediation.unity3d.com, reject
 
 host-suffix, cdn.iads.unitychina.cn, reject
 host-suffix, appsflyersdk.com, reject
