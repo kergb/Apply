@@ -21,7 +21,7 @@ host, amap-aos-info-nogw.amap.com
 host, logs.ads.vungle.com
 host, unityads.unity3d.com
 host, mediation.unity3d.com
-#host-suffix, applovin.com
+host-suffix, applovin.com
 host, i-sdk.mediation.unity3d.com
 host, i-adq.mediation.unity3d.com
 #建设银行
