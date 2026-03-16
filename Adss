@@ -3,7 +3,7 @@ host-suffix, vungle.com, reject
 #host-suffix, doubleclick.net, reject
 #host-suffix, supersonicads.com, reject
 #host-suffix, iadsdk.apple.com, reject
-#host-suffix, applovin.com, reject
+host-suffix, applovin.com, reject
 #host-suffix, collector.github.com, reject
 host-suffix, mediation.unity3d.com, reject
 
