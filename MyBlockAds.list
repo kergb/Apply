@@ -17,13 +17,17 @@ host-suffix, v.smtcdns.com
 host, free-aos-cdn-image.amap.com
 host, amap-aos-info-nogw.amap.com
 #海岛奇兵
+host-suffix, applvn.com, reject
+host-suffix, applovin.com, reject
+host-suffix, mediation.unity3d.com, reject
+
 #host, applovin.com
-host, logs.ads.vungle.com
-host, unityads.unity3d.com
-host, mediation.unity3d.com
-host-suffix, applovin.com
-host, i-sdk.mediation.unity3d.com
-host, i-adq.mediation.unity3d.com
+#host, logs.ads.vungle.com
+#host, unityads.unity3d.com
+#host, mediation.unity3d.com
+#host-suffix, applovin.com
+#host, i-sdk.mediation.unity3d.com
+#host, i-adq.mediation.unity3d.com
 #建设银行
 host-keyword, adv.ccb.com
 #京东
