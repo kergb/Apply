@@ -4,3 +4,4 @@ ip-cidr, 224.0.0.0/24
 ip-cidr, 172.16.0.0/12
 ip-cidr, 192.168.0.0/16
 host, cdn.id.supercell.com
+host, app.localhost.qaq.wiki
