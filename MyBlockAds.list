@@ -17,6 +17,10 @@ host-suffix, v.smtcdns.com
 host, free-aos-cdn-image.amap.com
 host, amap-aos-info-nogw.amap.com
 #海岛奇兵
+#host-suffix, applvn.com
+#host-suffix, applovin.com
+#host-suffix, mediation.unity3d.com
+
 
 #建设银行
 host-keyword, adv.ccb.com
