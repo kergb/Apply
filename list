@@ -1,9 +1,9 @@
 #Github
 host-keyword, github
 #Missav.com
-www.missav.ai
-www.missav.ws
-www.missav.live
+host-suffix, missav.ai
+host-suffix, missav.ws
+host-suffix, missav.live
 # Telegram
 host-suffix,t.me
 host-suffix,telesco.pe
