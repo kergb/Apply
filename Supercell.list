@@ -4,6 +4,7 @@ host, rt.applovin.com
 host-suffix, vungle.com
 host-suffix, applvn.com
 host-suffix, applovin.com
+host, cdn.id.supercell.com
 host-suffix, appsflyersdk.com
 host-suffix, mediation.unity3d.com
 host-suffix, cdn.iads.unitychina.cn
