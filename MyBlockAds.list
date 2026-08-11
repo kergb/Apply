@@ -16,6 +16,25 @@ host, mobads.baidu.com
 host-suffix, v.smtcdns.com
 host, free-aos-cdn-image.amap.com
 host, amap-aos-info-nogw.amap.com
+#广告联盟
+host, mercury-gateway.ixiaochuan.cn
+host-suffix, umengcloud.com
+host-suffix, hubcloud.com.cn
+host-suffix, ctobsnssdk.com
+host, open.e.kuaishou.com
+host-suffix, ubixioe.com
+host, adapi.izuiyou.com
+host-suffix, gdt.qq.com
+host-keyword, pangolin
+host-suffix, beizi.biz
+host-suffix, umeng.com
+host, gdfp.gifshow.com
+host-keyword, pglstatp
+host-suffix, 1rtb.net
+host, janapi.jd.com
+host, dsp-x.jd.com
+host, sdk.e.qq.com
+host, xlog.jd.com
 #海岛奇兵
 #host-suffix, applvn.com
 #host-suffix, applovin.com
